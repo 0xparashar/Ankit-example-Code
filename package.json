@@ -1,0 +1,20 @@
+{
+  "name": "ankit-example-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "mongoose": "^5.9.22",
+    "q": "^1.5.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
